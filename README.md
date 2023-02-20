@@ -1,4 +1,4 @@
-![logo]()
+![logo]("https://github.com/asmosaja/asmosaja/blob/main/janu.jpeg")
 ### Hi there 👋
 
 <!--
