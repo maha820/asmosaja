@@ -1,9 +1,7 @@
-
-
 ![logo](https://github.com/asmosaja/asmosaja/blob/main/janu.jpeg)
 <h1 align="center">Hi 👋, I'm JANANI</h1>
 <h3 align="center">A passionate Full stack developer ,Mobile developer.</h3>
-<img align= "right" alt = "Coding" width = "400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif">
+<img alt = "Coding"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmosaja&label=Profile%20views&color=0e75b6&style=flat" alt="asmosaja" /> </p>
 
