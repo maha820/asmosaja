@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm JANANI</h1>
-<h3 align="center">A passionate Full stack developer ,Mobile developer.</h3>
+<h3 align="center">A passionate Full stack developer ,DEVOPS ENGINER.</h3>
 <img alt = "Coding"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmosaja&label=Profile%20views&color=0e75b6&style=flat" alt="asmosaja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmosaja" alt="asmosaja" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,React,Javascript**
+- 🌱 I’m currently learning **React,Javascript**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **DEVOPS, AI AND WEB DEVELOPMENT**
 
 - 📫 How to reach me **jananiashokse@gmail.com**
 
